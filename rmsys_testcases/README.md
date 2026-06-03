@@ -91,4 +91,6 @@ This repository demonstrates structured QA test case design for a web-based busi
 ## Author
 
 QA Engineer Portfolio
-Manual Testing | Test Design | UI & Functional QA
+
+Skills:
+Manual Testing | Test Case Design | UI Testing | Functional Testing
