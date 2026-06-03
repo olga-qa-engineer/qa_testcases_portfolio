@@ -10,13 +10,7 @@ The test suite demonstrates real-world QA documentation practices, including fun
 
 ## Repository Structure
 
-RMSys_TestCases/
-│
-├── 01_contact_permissions.md
-├── 02_phone_list_toolbar.md
-├── 03_new_phone_add.md
-├── 04_phone_edit.md
-├── 05_phone_delete.md
+See folder `rmsys_testcases/` for all test case files organized by feature area.
 
 ---
 
